@@ -465,6 +465,13 @@ Nexora aims to offer a simpler and more accessible alternative.
 
 ---
 
+## Documentation
+
+- [System Architecture](docs/architecture/system-architecture.md)
+- [Chatbot Flow](docs/architecture/chatbot-flow.md)
+- [Database Documentation](docs/database/database-functional-documentation.md)
+- [SaaS Structure](docs/architecture/saas-structure.md)
+- [Product Roadmap](docs/roadmap/product-roadmap.md)
 ## ⚙️ Technologies
 
 ```txt
